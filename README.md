@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unity F1 Racing Game Prototype
 
 This project is a Unity-ready, lightweight F1-inspired racing prototype built around:
@@ -39,3 +40,7 @@ This is a gameplay prototype rather than a full production-grade racing sim. It 
 - track collisions and wall penalties
 - HUD, minimap, and camera follow
 - more advanced tire model and slip angle simulation
+=======
+# f1-racing
+Realistic F1 racing game with online weekly leagues
+>>>>>>> a4fc2ac9c2fc4dc061ff295a556ae28cef30979e
